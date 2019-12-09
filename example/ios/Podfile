@@ -70,4 +70,4 @@ post_install do |installer|
   end
 end
 
-pod 'Branch'
+pod 'Branch', '~> 0.29.3'
